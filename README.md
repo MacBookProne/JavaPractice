@@ -1,4 +1,4 @@
 # JavaPractice
-A place to practice Java.
+This is a Repo to upload my java projects. 
 
 ```<li>Hello World</li>```
